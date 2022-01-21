@@ -1,8 +1,8 @@
 ---
 id: casini
-name: Prof. Daniel Casini
+name: Daniel Casini
 role: Technical Program Committee Co-Chair
-affiliation: Scuola Superiore Sant’Anna, Pisa, Italy
+affiliation: Scuola Superiore Sant’Anna, Italy
 email: daniel.casini@santannapisa.it
 webpage: https://retis.sssup.it/~d.casini/
 pic: assets/data/organizers/casini.png
