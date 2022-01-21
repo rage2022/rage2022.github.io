@@ -32,9 +32,9 @@ In this workshop, we solicit the submission of work-in-progress papers. Workshop
 
 ## Workshop format
 The workshop will include the following three types of contributions:
-    \* Submissions of workshop papers, which will be peer-reviewed by the workshop’s technical program committee. Accepted papers will be presented with an envisioned time slot of 10 minutes for the talk and 5 minutes for the Q&A. 
-    \* Invited talks from high-end expert speakers from both academia and industry, with an envisioned time slot for each presentation of 20-30 minutes including the Q&A.
-    \* An open panel discussion that will include experts both from academia and industry to further support the discussion and community building in the workshop.
+    * Submissions of workshop papers, which will be peer-reviewed by the workshop’s technical program committee. Accepted papers will be presented with an envisioned time slot of 10 minutes for the talk and 5 minutes for the Q&A. 
+    * Invited talks from high-end expert speakers from both academia and industry, with an envisioned time slot for each presentation of 20-30 minutes including the Q&A.
+    * An open panel discussion that will include experts both from academia and industry to further support the discussion and community building in the workshop.
 
 All invited speakers will participate in the panel discussion. The panel discussion will feature 8 invited panelists and it will be coordinated by the co-chairs of this workshop.
 
