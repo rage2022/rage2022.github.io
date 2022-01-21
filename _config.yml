@@ -27,9 +27,9 @@ url: "https://rage2022.github.io" # the base hostname & protocol for your site, 
 domain: "rage2022.github.io"
 
 # Build settings
-theme: minima
+theme: null
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -50,3 +50,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Collections settings
+collections_dir: collections
+collections:
+  - organizers
+
+# Sets the collections path
+defaults:
+  - scope:
+      path: "collections/_organizers/chair"
+    values:
+      organizer_type: "chair"
+  - scope:
+      path: "collections/_organizers/web"
+    values:
+      organizer_type: "web"
+
+exclude:
+  - "robots.txt"

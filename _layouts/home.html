@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<main id="page-top" class="index">
+
+    <!-- Header -->
+    <header style='background-image: url("{{ page.cover | relative_url }}");'>
+        <div class="container">
+            <div class="intro-text" style="text-align:center;">
+                <div class="intro-text-wrapper">
+                    <div class="intro-heading">RAGE {{ page.year }}<br></div>
+                    <div class="intro-lead-in">{{ page.date }}</div>
+                    <div class="intro-lead-in">{{ page.location }}</div>
+                    <a href="#intro" class="page-scroll btn btn-xl">
+                        About
+                        <i class="fa fa-arrow-down" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h2 class="section-heading">About</h2>
+                </div>
+                <div class="col-sm-4">
+                    <h2 class="section-heading">Important dates</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-8">
+                    {{ content }}
+                </div>
+                <div class="col-sm-4">
+                    <table class="table">
+                        <tr>
+                            <th scope="row">Submission deadline</th>
+                            <td>{{ page.deadline }}</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Notification to authors</th>
+                            <td>{{ page.notification }}</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Workshop date</th>
+                            <td>{{ page.date }}</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>

@@ -1,0 +1,32 @@
+/*!
+ * This file contains CSS added to customize the Agency StartBootstrap template
+ */
+
+body {
+    position: absolute;
+    margin: 0;
+    min-height: 100%;
+    width: 100%;
+}
+
+.intro-text {
+    text-align: center;
+}
+
+.intro-text-wrapper {
+    padding: 20px;
+    width: 50%; 
+    margin: 0 auto; 
+    background-color: rgba(0, 0, 0, 0.4);
+}
+  
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+footer .col-md-4:last-child {
+    text-align: right;
+}
