@@ -1,8 +1,8 @@
 ---
 id: becker
-name: Prof. Matthias Becker
+name: Matthias Becker
 role: Technical Program Committee Co-Chair
-affiliation: KTH Royal Institute of Technology, Stockholm, Sweden
+affiliation: KTH Royal Institute of Technology, Sweden
 email: mabecker@kth.se
 webpage: https://www.kth.se/profile/mabecker
 pic: assets/data/organizers/becker.jpg
