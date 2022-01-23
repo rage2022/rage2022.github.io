@@ -19,6 +19,20 @@ body {
     margin: 0 auto; 
     background-color: rgba(0, 0, 0, 0.4);
 }
+
+.intro-subtitle {
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+.intro-subtitle a {
+    text-decoration: underline;
+    color: white;
+}
+
+.intro-subtitle a:visited {
+    color: white;
+}
   
 footer {
     position: absolute;
@@ -29,4 +43,25 @@ footer {
 
 footer .col-md-4:last-child {
     text-align: right;
+}
+
+#date {
+    margin: 0;
+}
+
+#caption {
+    font-style: normal;
+    font-weight: bold;
+}
+
+@media(max-width:768px) {
+    .intro-text-wrapper {
+        width: 75%;
+    }
+    .page-scroll.btn {
+        padding: 10px 20px;
+    }
+    .intro-subtitle {
+        font-size: 30px;
+    }
 }

@@ -9,10 +9,21 @@ layout: default
         <div class="container">
             <div class="intro-text" style="text-align:center;">
                 <div class="intro-text-wrapper">
-                    <div class="intro-heading">RAGE {{ page.year }} @ <a href="https://www.dac.com/">DAC 2022</a><br></div>
-                    Real-time And intelliGent Edge computing workshop
-                    <div class="intro-lead-in">{{ page.date }}</div>
-                    <div class="intro-lead-in">{{ page.location }}</div>
+                    <div class="intro-heading">
+                        RAGE {{ page.year }}
+                        <p class="intro-subtitle">
+                            <a href="https://www.dac.com/">@ DAC 2022</a>
+                        </p>
+                    </div>
+                    <div id="caption" class="intro-lead-in">
+                        {{ page.caption }}
+                    </div>
+                    <div id="date" class="intro-lead-in">
+                        {{ page.date }}
+                    </div>
+                    <div id="location" class="intro-lead-in">
+                        {{ page.location }}
+                    </div>
                     <a href="#intro" class="page-scroll btn btn-xl">
                         Call For Papers
                         <i class="fa fa-arrow-down" aria-hidden="true"></i>
@@ -27,16 +38,12 @@ layout: default
             <div class="row">
                 <div class="col-sm-8">
                     <h2 class="section-heading">About</h2>
+                    <div>
+                        {{ content }}
+                    </div>
                 </div>
                 <div class="col-sm-4">
                     <h2 class="section-heading">Important dates</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-8">
-                    {{ content }}
-                </div>
-                <div class="col-sm-4">
                     <table class="table">
                         <tr>
                             <th scope="row">Submission deadline</th>
