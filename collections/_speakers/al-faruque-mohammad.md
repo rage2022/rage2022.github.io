@@ -1,5 +1,5 @@
 ---
-name: Mohammad Al Faruque
+name: Prof. Mohammad Al Faruque
 affiliation: University of California Irvine (UCI)
 pic: assets/data/speakers/al-faruque.png
 bio: >-
