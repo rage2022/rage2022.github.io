@@ -54,6 +54,24 @@ footer .col-md-4:last-child {
     font-weight: bold;
 }
 
+.text-muted {
+    margin: 0;
+    color: #333;
+}
+
+.speakers-name {
+    margin-bottom: 10px !important;
+}
+
+.speaker-simple-item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.speaker-simple-item p {
+    margin: 0;
+}
+
 @media(max-width:768px) {
     .intro-text-wrapper {
         width: 75%;

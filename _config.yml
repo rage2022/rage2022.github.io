@@ -55,6 +55,7 @@ plugins:
 collections_dir: collections
 collections:
   - organizers
+  - speakers
 
 # Sets the collections path
 defaults:
@@ -63,9 +64,17 @@ defaults:
     values:
       organizer_type: "chair"
   - scope:
+      path: "collections/_organizers/tpc"
+    values:
+      organizer_type: "tpc"
+  - scope:
       path: "collections/_organizers/web"
     values:
       organizer_type: "web"
+  - scope:
+      path: "collections/_organizers/publicity"
+    values:
+      organizer_type: "publicity"
 
 exclude:
   - "robots.txt"
