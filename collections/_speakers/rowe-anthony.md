@@ -1,5 +1,5 @@
 ---
-name: Anthony Rowe
+name: Prof. Anthony Rowe
 affiliation: Carnegie Mellon University
 pic: assets/data/speakers/rowe.png
 speach:
