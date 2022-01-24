@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Speakers
+title: Invited Speakers
 permalink: /speakers/
 ---
 
