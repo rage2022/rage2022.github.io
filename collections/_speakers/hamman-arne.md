@@ -1,5 +1,5 @@
 ---
-name: Arne Hamman
+name: Dr. Arne Hamman
 affiliation: Bosch Corporate Research
 pic: assets/data/speakers/hamman.jpg
 speach:
