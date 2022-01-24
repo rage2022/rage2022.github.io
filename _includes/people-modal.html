@@ -16,9 +16,11 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h2>{{ post.title }}</h2>
+                        <h2>{{ person.name }}</h2>
                         <hr class="star-primary">
                         <img src="{{ person.pic | relative_url }}" class="img-responsive img-centered">
+                        <h3>Affiliation:</h3>
+                        <p>{{ include.person.affiliation }}</p>
                         {% if person_type == "organizer" %}
                             <h3>Bio:</h3>
                             <p>{{ include.person.bio }}</p>

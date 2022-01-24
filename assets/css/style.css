@@ -72,6 +72,15 @@ footer .col-md-4:last-child {
     margin: 0;
 }
 
+.organizers-secondary .speaker-simple-item {
+    text-align: center;
+}
+
+.people h2:not(.section-heading) {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
 @media(max-width:768px) {
     .intro-text-wrapper {
         width: 75%;

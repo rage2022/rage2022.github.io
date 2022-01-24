@@ -33,32 +33,19 @@ permalink: /organizers/
         {% include people-modal.html person=person %}
     {% endif %}
 {% endfor %}
-## Technical program committee
 
-<div class="row">
+<!-- Other organizers -->
+{% assign roles = "tpc|web|publicity" | split: "|" %}
+{% assign headings = "Technical program committee|Web chair|Publicity chair" | split: "|" %}
+
+{% for role in roles %}
+<h2>{{ headings[forloop.index0] }}</h2>
+<div class="row organizers-secondary">
     {% for person in site.organizers %}
-        {% if person.organizer_type == "tpc" %}
+        {% if person.organizer_type == role %}
             {% include people-simple.html person=person %}
         {% endif %}
     {% endfor %}
 </div>
+{% endfor %}
 
-## Web chair
-
-<div class="row">
-    {% for person in site.organizers %}
-        {% if person.organizer_type == "web" %}
-            {% include people-simple.html person=person %}
-        {% endif %}
-    {% endfor %}
-</div>
-
-## Publicity chair
-
-<div class="row">
-    {% for person in site.organizers %}
-        {% if person.organizer_type == "publicity" %}
-            {% include people-simple.html person=person %}
-        {% endif %}
-    {% endfor %}
-</div>
