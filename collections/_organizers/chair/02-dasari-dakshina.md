@@ -1,5 +1,5 @@
 ---
-id: dasari
+slug: dasari
 name: Dakshina Dasari
 role: Technical Program Committee Co-Chair
 affiliation: Robert Bosch GmbH, Germany

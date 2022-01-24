@@ -1,5 +1,5 @@
 ---
-id: casini
+slug: casini
 name: Daniel Casini
 role: Technical Program Committee Co-Chair
 affiliation: Scuola Superiore Sant’Anna, Italy

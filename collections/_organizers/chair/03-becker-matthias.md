@@ -1,5 +1,5 @@
 ---
-id: becker
+slug: becker
 name: Matthias Becker
 role: Technical Program Committee Co-Chair
 affiliation: KTH Royal Institute of Technology, Sweden
