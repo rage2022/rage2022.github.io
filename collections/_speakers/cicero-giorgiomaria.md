@@ -1,5 +1,5 @@
 ---
-name: Giorgiomaria Cicero
+name: Dr. Giorgiomaria Cicero
 affiliation: Scuola Superiore Sant’Anna, Italy
 pic: assets/data/speakers/cicero.jpeg
 speach:
