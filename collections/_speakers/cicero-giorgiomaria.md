@@ -1,6 +1,6 @@
 ---
 name: Dr. Giorgiomaria Cicero
-affiliation: Scuola Superiore Sant’Anna, Italy
+affiliation: Accelerat S.R.L.
 pic: assets/data/speakers/cicero.jpeg
 speach:
     topic: "The role of virtualization at the edge for mixed-criticality applications"
