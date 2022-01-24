@@ -1,5 +1,5 @@
 ---
-name: Dr. Daniel Bristot
+name: Dr. Daniel Bristot De Oliveira
 affiliation: Red Hat
 pic: assets/data/speakers/bristot.png
 speach:
