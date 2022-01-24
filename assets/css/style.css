@@ -2,12 +2,50 @@
  * This file contains CSS added to customize the Agency StartBootstrap template
  */
 
+/*
+* INDEX:
+*   - 01 - GENERAL
+*   - 02 - FOOTER
+*   - 03 - HOME
+*   - 04 - ORGANIZERS & SPEAKERS
+*/
+
+/*
+* 01 - GENERAL
+*/
+
 body {
     position: absolute;
     margin: 0;
     min-height: 100%;
     width: 100%;
 }
+
+@media(min-width:768px) {
+    .navbar-brand {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+}
+
+/*
+* 02 - FOOTER
+*/
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+footer .col-md-4:last-child {
+    text-align: right;
+}
+
+/*
+* 03 - HOME
+*/
 
 .intro-text {
     text-align: center;
@@ -34,17 +72,6 @@ body {
     color: white;
 }
   
-footer {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-}
-
-footer .col-md-4:last-child {
-    text-align: right;
-}
-
 #date {
     margin: 0;
 }
@@ -53,6 +80,22 @@ footer .col-md-4:last-child {
     font-style: normal;
     font-weight: bold;
 }
+
+@media(max-width:768px) {
+    .intro-text-wrapper {
+        width: 75%;
+    }
+    .page-scroll.btn {
+        padding: 10px 20px;
+    }
+    .intro-subtitle {
+        font-size: 30px;
+    }
+}
+
+/*
+* 04 - ORGANIZERS & SPEAKERS
+*/
 
 .text-muted {
     margin: 0;
@@ -81,14 +124,10 @@ footer .col-md-4:last-child {
     margin-bottom: 15px;
 }
 
-@media(max-width:768px) {
-    .intro-text-wrapper {
-        width: 75%;
-    }
-    .page-scroll.btn {
-        padding: 10px 20px;
-    }
-    .intro-subtitle {
-        font-size: 30px;
-    }
+.speakers-info p {
+    margin: 5px;
+}
+
+#speakers {
+    margin-bottom: 20px;
 }
