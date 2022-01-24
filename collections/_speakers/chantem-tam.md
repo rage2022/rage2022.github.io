@@ -1,5 +1,5 @@
 ---
-name: Tam Chantem
+name: Prof. Tam Chantem
 affiliation: Virginia Tech
 pic: assets/data/speakers/chantem.jpg
 speach:
