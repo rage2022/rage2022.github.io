@@ -1,5 +1,5 @@
 ---
-name: Arpan Gujarati
+name: Dr. Arpan Gujarati
 affiliation: University of British Columbia 
 pic: assets/data/speakers/gujarati.png
 speach:
