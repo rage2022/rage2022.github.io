@@ -1,6 +1,6 @@
 ---
 name: Prof. Anthony Rowe
-affiliation: Carnegie Mellon University
+affiliation: Carnegie Mellon University, USA
 pic: assets/data/speakers/rowe.png
 speach:
     topic: "Lightweight virtualization for giving the cloud an edge"
