@@ -1,6 +1,6 @@
 ---
 name: Dr. Arpan Gujarati
-affiliation: University of British Columbia 
+affiliation: University of British Columbia, Canada
 pic: assets/data/speakers/gujarati.png
 speach:
     topic: "Serving DNNs like Clockwork: Performance Predictability from the Bottom Up"
