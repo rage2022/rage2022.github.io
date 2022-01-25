@@ -1,6 +1,6 @@
 ---
 name: Prof. Mohammad Al Faruque
-affiliation: University of California Irvine (UCI)
+affiliation: University of California Irvine (UCI), USA
 pic: assets/data/speakers/al-faruque.png
 speach:
     topic: "Low power Machine Learning Techniques for Edge-AI"
