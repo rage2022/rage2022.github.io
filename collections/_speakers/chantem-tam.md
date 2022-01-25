@@ -1,6 +1,6 @@
 ---
 name: Prof. Tam Chantem
-affiliation: Virginia Tech
+affiliation: Virginia Tech, USA
 pic: assets/data/speakers/chantem.jpg
 speach:
     topic: "Deadline-Aware Task Offloading for Vehicular Edge Computing Networks"
