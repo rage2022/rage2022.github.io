@@ -1,6 +1,6 @@
 ---
 name: Dr. Daniel Bristot De Oliveira
-affiliation: Red Hat
+affiliation: Red Hat, Italy
 pic: assets/data/speakers/bristot.png
 speach:
     topic: "Real-time Linux analysis tools: finding the sources of OS latencies"
