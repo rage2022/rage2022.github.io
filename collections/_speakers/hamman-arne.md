@@ -1,6 +1,6 @@
 ---
 name: Dr. Arne Hamman
-affiliation: Bosch Corporate Research
+affiliation: Bosch Corporate Research, Germany
 pic: assets/data/speakers/hamman.jpg
 speach:
     topic: "Industrial use-cases for real-time edge-computing"
