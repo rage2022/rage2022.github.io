@@ -1,6 +1,6 @@
 ---
 name: Alessio Balsini
 role: Ordinary PC member 
-affiliation: Google
+affiliation: Google, UK
 email: balsini@google.com
 ---
