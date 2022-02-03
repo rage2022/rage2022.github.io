@@ -3,6 +3,9 @@ layout: page
 title: Submission
 permalink: /submission/
 ---
+## Submission website
+
+https://easychair.org/conferences/?conf=rage2022
 
 ## Submission Instructions
 
