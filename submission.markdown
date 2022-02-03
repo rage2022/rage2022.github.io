@@ -5,7 +5,7 @@ permalink: /submission/
 ---
 ## Submission website
 
-https://easychair.org/conferences/?conf=rage2022
+[https://easychair.org/conferences/?conf=rage2022](https://easychair.org/conferences/?conf=rage2022)
 
 ## Submission Instructions
 
