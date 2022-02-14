@@ -43,25 +43,35 @@ layout: default
                     </div>
                 </div>
                 <div class="col-sm-4">
-                    <h2 class="section-heading">Important dates</h2>
-                    <table class="table">
-                        <tr>
-                            <th scope="row">Submission deadline</th>
-                            <td>{{ page.deadline }}</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Notification to authors</th>
-                            <td>{{ page.notification }}</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Workshop date</th>
-                            <td>{{ page.date }}</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Submission link</th>
-                            <td><a href="https://easychair.org/conferences/?conf=rage2022">https://easychair.org/conferences/?conf=rage2022</a></td>
-                        </tr>
-                    </table>
+                    <div class="home-dates">
+                        <h2 class="section-heading">Important dates</h2>
+                        <table class="table">
+                            <tr>
+                                <th scope="row">Submission deadline</th>
+                                <td>{{ page.deadline }}</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Notification to authors</th>
+                                <td>{{ page.notification }}</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Workshop date</th>
+                                <td>{{ page.date }}</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Submission link</th>
+                                <td><a href="https://easychair.org/conferences/?conf=rage2022">https://easychair.org/conferences/?conf=rage2022</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="home-sponsors">
+                        <h2 class="section-heading">Sponsors</h2>
+                        <h3>Technical sponsors</h3>
+                        <a href="http://www.emsig.net">
+                            <img width="150px" src="{{ "/assets/img/emsig.png" | relative_url }}" alt="EMSIG">
+                            <span>Embedded Systems Special Interest Group</span>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

@@ -81,6 +81,20 @@ footer .col-md-4:last-child {
     font-weight: bold;
 }
 
+.home-sponsors a {
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+
+.home-sponsors a > img {
+    margin: 0 auto;
+}
+
+.home-sponsors a > img, .home-sponsors a > span {
+    display: block;
+} 
+
 @media(max-width:768px) {
     .intro-text-wrapper {
         width: 75%;
