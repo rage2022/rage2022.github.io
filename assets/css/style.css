@@ -8,6 +8,7 @@
 *   - 02 - FOOTER
 *   - 03 - HOME
 *   - 04 - ORGANIZERS & SPEAKERS
+*   - 05 - AGENDA
 */
 
 /*
@@ -144,4 +145,48 @@ footer .col-md-4:last-child {
 
 #speakers {
     margin-bottom: 20px;
+}
+
+/*
+* 05 - AGENDA
+*/
+
+.program {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.program tbody tr td {
+    padding: 5px 11px;
+    font-size: 14px;
+}
+
+.program th, .program td {
+    border-top: 1px solid rgba(255, 255, 255, 0.6);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.program-topic { 
+    background: rgb(225, 225, 235); 
+}
+
+.program-tag { 
+    background: rgb(235, 211, 51); 
+    font-size: 115%; 
+}
+
+.program-event { 
+    background: rgb(215, 215, 195); 
+}
+
+.program-break { 
+    background: rgb(247, 170, 187); 
+}
+
+.program-speaker { 
+    font-size: 85%; 
+    font-style: italic; 
+}
+
+.program-divider {
+    height: 30px;
 }
