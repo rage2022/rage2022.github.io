@@ -178,6 +178,10 @@ footer .col-md-4:last-child {
     background: rgb(215, 215, 195); 
 }
 
+.program-special-event { 
+    background: rgb(255, 221, 204); 
+}
+
 .program-break { 
     background: rgb(247, 170, 187); 
 }
@@ -185,6 +189,11 @@ footer .col-md-4:last-child {
 .program-speaker { 
     font-size: 85%; 
     font-style: italic; 
+}
+
+.program-special-speaker { 
+    font-style: italic;
+    font-weight: bold;
 }
 
 .program-divider {
