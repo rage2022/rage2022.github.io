@@ -54,8 +54,12 @@ plugins:
 # Collections settings
 collections_dir: collections
 collections:
-  - organizers
-  - speakers
+  organizers:
+    output: false
+  speakers:
+    output: false
+  contributions:  
+    output: true
 
 # Sets the collections path
 defaults:
