@@ -17,7 +17,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-special-event">08:10-08:40</td>
-            <td class="program-special-event"><b>Invited Speaker:</b>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Lightweight virtualization for giving the cloud an edge</span>
                 <b><br>&emsp;<a href="/speakers/#rowe-anthony">Prof. Anthony Rowe,</a></b>
                 <br>&emsp;<a href="https://www.cmu.edu/">Carnegie Mellon University, USA </a>
@@ -65,7 +65,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-special-event">09:40-10:10</td>
-            <td class="program-special-event"><b>Invited Speaker:</b>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Industrial use-cases for real-time edge-computing</span>
                 <b><br>&emsp;<a href="/speakers/#hamann-arne">Dr. Arne Hamann,</a></b>
                 <br>&emsp;<a href="https://www.bosch.com/research/">Bosch Corporate Research, Germany </a>
@@ -103,7 +103,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-special-event">10:55-11:25</td>
-            <td class="program-special-event"><b>Invited Speaker:</b>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Real-time Linux analysis tools: finding the sources of OS latencies</span>
                 <b><br>&emsp;<a href="/speakers/#bristot-daniel">Dr. Daniel Bristot de Oliveira,</a></b>
                 <br>&emsp;<a href="https://www.redhat.com/">Red Hat, Italy </a>
@@ -111,7 +111,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-special-event">11:25-11:55</td>
-            <td class="program-special-event"><b>Invited Speaker:</b>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >The role of virtualization at the edge for mixed-criticality applications</span>
                 <b><br>&emsp;<a href="/speakers/#cicero-giorgiomaria">Giorgiomaria Cicero,</a></b>
                 <br>&emsp;<a href="https://accelerat.eu/">Accelerat S.R.L., Italy </a>
@@ -129,7 +129,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-special-event">12:55-13:25</td>
-            <td class="program-special-event"><b>Invited Speaker:</b>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Low power Machine Learning Techniques for Edge-AI</span>
                 <b><br>&emsp;<a href="/speakers/#al-faruque-mohammad">Prof. Mohammad Al Faruque,</a></b>
                 <br>&emsp;<a href="https://uci.edu/">University of California Irvine (UCI), USA </a>
@@ -177,7 +177,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-special-event">14:25-14:55</td>
-            <td class="program-special-event"><b>Invited Speaker:</b>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Deadline-Aware Task Offloading for Vehicular Edge Computing Networks</span>
                 <b><br>&emsp;<a href="/speakers/#chantem-tam">Prof. Tam Chantem,</a></b>
                 <br>&emsp;<a href="https://vt.edu/">Virginia Tech, USA </a>
@@ -185,7 +185,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-special-event">14:55-15:25</td>
-            <td class="program-special-event"><b>Invited Speaker:</b>
+            <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Serving DNNs like Clockwork: Performance Predictability from the Bottom Up</span>
                 <b><br>&emsp;<a href="/speakers/#gujarati-arpan">Dr. Arpan Gujarati,</a></b>
                 <br>&emsp;<a href="https://www.ubc.ca/">University of British Columbia, Canada </a>
