@@ -97,7 +97,7 @@ permalink: /agenda/
                 <br>
                 <span class="program-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. <br>
                     Presented by <b><br>&emsp;<a href="/speakers/#choi-hyunjong">Dr. Hyunjong Choi,</a></b>
-                <br>&emsp;<a href="[https://www.arm.com](https://noaa99.github.io/)">University of California at Riverside, USA </a>
+                <br>&emsp;<a href="https://www.ucr.edu/">University of California at Riverside, USA </a>
                 </span>
             </td>
         </tr>
@@ -136,7 +136,7 @@ permalink: /agenda/
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >zenoh: A Next-Generation Protocol for IoT and Edge Computing</span>
                 <b><br>&emsp;<a href="/speakers/#desbiens-frédéric ">Dr. Frédéric Desbiens,</a></b>
-                <br>&emsp;<a href="https://www.eclipse.org/org/"> Eclipse Foundation, Canada </a>
+                <br>&emsp;<a href="https://www.eclipse.org/org/">Eclipse Foundation, Canada </a>
             </td>
         </tr>
         <tr>
