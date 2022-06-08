@@ -183,8 +183,8 @@ permalink: /agenda/
             <td class="program-special-event">14:25-14:55</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Deadline-Aware Task Offloading for Vehicular Edge Computing Networks</span>
-                <b><br>&emsp;<a href="/speakers/#chantem-tam">Prof. Tam Chantem,</a></b>
-                <br>&emsp;<a href="https://vt.edu/">Virginia Tech, USA </a>
+                <b><br>&emsp;<a href="/speakers/#oza-pratham">Dr. Pratham Oza,</a></b>
+                <br>&emsp;<a href="https://vt.edu/">Nuro Inc., USA </a>
             </td>
         </tr>
         <tr>
@@ -202,9 +202,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">15:40-16:10</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Deadline-Aware Task Offloading for Vehicular Edge Computing Networks</span>
-                <b><br>&emsp;<a href="/speakers/#chantem-tam">Prof. Tam Chantem,</a></b>
-                <br>&emsp;<a href="https://vt.edu/">Virginia Tech, USA </a>
+                <br>&emsp;<span >Low power Machine Learning Techniques for Edge-AI</span>
+                <b><br>&emsp;<a href="/speakers/#al-faruque-mohammad">Prof. Mohammad Al Faruque,</a></b>
+                <br>&emsp;<a href="https://uci.edu/">University of California Irvine (UCI), USA </a>
             </td>
         </tr>
         <tr>
