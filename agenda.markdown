@@ -73,7 +73,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">09:40-10:10</td>
-            <td class="program-topic">Session 2: Invited papers.</td>
+            <td class="program-topic">Session 2: <b>Invited speakers with papers.</b></td>
         </tr>
         <tr>
             <td>10:10-10:25</td>
@@ -82,7 +82,7 @@ permalink: /agenda/
                 <a href="/contributions/5763"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
-                <span class="program-speaker">Matteo Andreozzi and Girish Shirasat, ARM.<br>
+                <span class="program-speaker">Matteo Andreozzi and Girish Shirasat, ARM. Presented by <b>Girish Shirasat</b><br>
                 </span>
             </td>
         </tr>
@@ -93,7 +93,7 @@ permalink: /agenda/
                 <a href="/contributions/0625"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
-                <span class="program-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim<br>
+                <span class="program-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. Presented by <b>Hyunjong Choi</b><br>
                 </span>
             </td>
         </tr>
