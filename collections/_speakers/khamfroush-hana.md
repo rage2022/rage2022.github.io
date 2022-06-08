@@ -1,7 +1,7 @@
 ---
 name: Prof. Hana Khamfroush
 affiliation: University of Kentucky, USA
-pic: assets/data/speakers/khamfroush.png
+pic: assets/data/speakers/khamfroush.jpg
 speach:
     topic: "QoS-aware resource management for Edge-AI"
 bio: >-
