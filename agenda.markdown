@@ -134,9 +134,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">12:55-13:25</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Low power Machine Learning Techniques for Edge-AI</span>
-                <b><br>&emsp;<a href="/speakers/#al-faruque-mohammad">Prof. Mohammad Al Faruque,</a></b>
-                <br>&emsp;<a href="https://uci.edu/">University of California Irvine (UCI), USA </a>
+                <br>&emsp;<span >zenoh: A Next-Generation Protocol for IoT and Edge Computing</span>
+                <b><br>&emsp;<a href="/speakers/#desbiens-frédéric ">Dr. Frédéric Desbiens,</a></b>
+                <br>&emsp;<a href="https://www.eclipse.org/org/"> Eclipse Foundation, Canada </a>
             </td>
         </tr>
         <tr>
