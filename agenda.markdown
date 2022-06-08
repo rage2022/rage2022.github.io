@@ -202,17 +202,17 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">15:40-16:10</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Low power Machine Learning Techniques for Edge-AI</span>
-                <b><br>&emsp;<a href="/speakers/#al-faruque-mohammad">Prof. Mohammad Al Faruque,</a></b>
-                <br>&emsp;<a href="https://uci.edu/">University of California Irvine (UCI), USA </a>
+                <br>&emsp;<span >QoS-aware resource management for Edge-AI</span>
+                <b><br>&emsp;<a href="/speakers/#khamfroush-hana">Prof. Hana Khamfroush,</a></b>
+                <br>&emsp;<a href="https://uky.edu/">University of Kentucky, USA </a>
             </td>
         </tr>
         <tr>
             <td class="program-special-event">16:10-16:40</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Serving DNNs like Clockwork: Performance Predictability from the Bottom Up</span>
-                <b><br>&emsp;<a href="/speakers/#gujarati-arpan">Dr. Arpan Gujarati,</a></b>
-                <br>&emsp;<a href="https://www.ubc.ca/">University of British Columbia, Canada </a>
+                <br>&emsp;<span >Low power Machine Learning Techniques for Edge-AI</span>
+                <b><br>&emsp;<a href="/speakers/#al-faruque-mohammad">Prof. Mohammad Al Faruque,</a></b>
+                <br>&emsp;<a href="https://uci.edu/">University of California at Irvine (UCI), USA </a>
             </td>
         </tr>
         <tr>
