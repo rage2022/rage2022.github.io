@@ -1,6 +1,6 @@
 name: Dr. Joerg Seitter
 affiliation: ETAS, Germany
-pic: assets/data/speakers/khamfroush.png
+pic: assets/data/speakers/seitter.png
 speach:
     topic: "Giving the Software Defined Vehicle an Edge"
 bio: >-
