@@ -1,7 +1,7 @@
 ---
 name: Dr. Pratham Oza
 affiliation: Nuro Inc., USA
-pic: assets/data/speakers/khamfroush.png
+pic: assets/data/speakers/oza.jpg
 speach:
     topic: "Deadline-Aware Task Offloading for Vehicular Edge Computing Networks"
 bio: >-
