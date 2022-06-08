@@ -200,11 +200,27 @@ permalink: /agenda/
             <td class="program-break">Short Break</td>
         </tr>
         <tr>
-            <td class="program-event">15:40-16:40</td>
+            <td class="program-special-event">15:40-16:10</td>
+            <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span >Deadline-Aware Task Offloading for Vehicular Edge Computing Networks</span>
+                <b><br>&emsp;<a href="/speakers/#chantem-tam">Prof. Tam Chantem,</a></b>
+                <br>&emsp;<a href="https://vt.edu/">Virginia Tech, USA </a>
+            </td>
+        </tr>
+        <tr>
+            <td class="program-special-event">16:10-16:40</td>
+            <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span >Serving DNNs like Clockwork: Performance Predictability from the Bottom Up</span>
+                <b><br>&emsp;<a href="/speakers/#gujarati-arpan">Dr. Arpan Gujarati,</a></b>
+                <br>&emsp;<a href="https://www.ubc.ca/">University of British Columbia, Canada </a>
+            </td>
+        </tr>
+        <tr>
+            <td class="program-event">16:40-17:10</td>
             <td class="program-event">Panel Discussion</td>
         </tr>
         <tr>
-            <td class="program-event">16:40-16:50</td>
+            <td class="program-event">17:10-17:30</td>
             <td class="program-event">Closing Remarks</td>
         </tr>
     </tbody>
