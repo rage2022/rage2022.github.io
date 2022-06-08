@@ -1,7 +1,7 @@
 ---
 name: Dr. Frédéric Desbiens
 affiliation: Eclipse Foundation, Canada
-pic: assets/data/speakers/desbiens.png
+pic: assets/data/speakers/desbiens.jpg
 speach:
     topic: "zenoh: A Next-Generation Protocol for IoT and Edge Computing"
 bio: >-
