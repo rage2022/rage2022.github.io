@@ -108,9 +108,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">10:55-11:25</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Real-time Linux analysis tools: finding the sources of OS latencies</span>
-                <b><br>&emsp;<a href="/speakers/#bristot-daniel">Dr. Daniel Bristot de Oliveira,</a></b>
-                <br>&emsp;<a href="https://www.redhat.com/">Red Hat, Italy </a>
+                <br>&emsp;<span >Giving the Software Defined Vehicle an Edge</span>
+                <b><br>&emsp;<a href="/speakers/#seitter-joerg">Dr. Joerg Seitter,</a></b>
+                <br>&emsp;<a href="https://www.redhat.com/">ETAS, Germany </a>
             </td>
         </tr>
         <tr>
@@ -184,7 +184,7 @@ permalink: /agenda/
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Deadline-Aware Task Offloading for Vehicular Edge Computing Networks</span>
                 <b><br>&emsp;<a href="/speakers/#oza-pratham">Dr. Pratham Oza,</a></b>
-                <br>&emsp;<a href="https://vt.edu/">Nuro Inc., USA </a>
+                <br>&emsp;<a href="https://www.nuro.ai/">Nuro Inc., USA </a>
             </td>
         </tr>
         <tr>
