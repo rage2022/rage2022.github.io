@@ -1,5 +1,5 @@
 ---
-name: Prof. Pratham Oza
+name: Dr. Pratham Oza
 affiliation: Nuro Inc., USA
 pic: assets/data/speakers/khamfroush.png
 speach:
