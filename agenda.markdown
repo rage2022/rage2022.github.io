@@ -82,7 +82,9 @@ permalink: /agenda/
                 <a href="/contributions/5763"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
-                <span class="program-speaker">Matteo Andreozzi and Girish Shirasat, ARM. Presented by <b>Girish Shirasat</b><br>
+                <span class="program-speaker">Matteo Andreozzi and Girish Shirasat, ARM. <br>
+                    Presented by <b><br>&emsp;<a href="/speakers/#shirasat-girish">Dr. Girish Shirasat,</a></b>
+                <br>&emsp;<a href="https://www.arm.com">ARM, UK </a>
                 </span>
             </td>
         </tr>
@@ -93,7 +95,9 @@ permalink: /agenda/
                 <a href="/contributions/0625"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
-                <span class="program-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. Presented by <b>Hyunjong Choi</b><br>
+                <span class="program-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. <br>
+                    Presented by <b><br>&emsp;<a href="/speakers/#choi-hyunjong">Dr. Hyunjong Choi,</a></b>
+                <br>&emsp;<a href="[https://www.arm.com](https://noaa99.github.io/)">University of California at Riverside, USA </a>
                 </span>
             </td>
         </tr>
