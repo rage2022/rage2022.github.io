@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: organizers
 title: Organizers
 permalink: /organizers/
 ---
