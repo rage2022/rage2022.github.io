@@ -82,8 +82,8 @@ permalink: /agenda/
                 <a href="/contributions/5763"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
-                <span class="program-speaker">Matteo Andreozzi and Girish Shirasat, ARM. <br>
-                    Presented by <b><br>&emsp;<a href="/speakers/#shirasat-girish">Dr. Girish Shirasat,</a></b>
+                <span class="program-invited-speaker">Matteo Andreozzi and Girish Shirasat, ARM. <br>
+                    PRESENTED BY <b><br>&emsp;<a href="/speakers/#shirasat-girish">Dr. Girish Shirasat,</a></b>
                 <br>&emsp;<a href="https://www.arm.com">ARM, UK </a>
                 </span>
             </td>
@@ -95,8 +95,8 @@ permalink: /agenda/
                 <a href="/contributions/0625"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
-                <span class="program-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. <br>
-                    Presented by <b><br>&emsp;<a href="/speakers/#choi-hyunjong">Dr. Hyunjong Choi,</a></b>
+                <span class="program-invited-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. <br>
+                    PRESENTED BY <b><br>&emsp;<a href="/speakers/#choi-hyunjong">Dr. Hyunjong Choi,</a></b>
                 <br>&emsp;<a href="https://www.ucr.edu/">University of California at Riverside, USA </a>
                 </span>
             </td>
@@ -135,7 +135,7 @@ permalink: /agenda/
             <td class="program-special-event">12:55-13:25</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >zenoh: A Next-Generation Protocol for IoT and Edge Computing</span>
-                <b><br>&emsp;<a href="/speakers/#desbiens-frédéric">Dr. Frédéric Desbiens,</a></b>
+                <b><br>&emsp;<a href="/speakers/#desbiens-frederic">Dr. Frédéric Desbiens,</a></b>
                 <br>&emsp;<a href="https://www.eclipse.org/org/">Eclipse Foundation, Canada </a>
             </td>
         </tr>
