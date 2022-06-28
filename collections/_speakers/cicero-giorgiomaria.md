@@ -1,5 +1,5 @@
 ---
-name: Dr. Giorgiomaria Cicero
+name: Giorgiomaria Cicero
 affiliation: Accelerat S.R.L., Italy
 pic: assets/data/speakers/cicero.jpeg
 speach:
