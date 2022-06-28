@@ -1,5 +1,5 @@
 ---
-name: Dr. Joerg Seitter
+name: Joerg Seitter
 affiliation: ETAS, Germany
 pic: assets/data/speakers/seitter.jpeg
 speach:
