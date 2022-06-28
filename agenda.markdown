@@ -60,7 +60,7 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td class="program-break">09:10-09:25</td>
+            <td class="program-break">09:25-09:40</td>
             <td class="program-break">Short Break</td>
         </tr>
         <tr>
@@ -72,7 +72,7 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td class="program-topic">09:40-10:10</td>
+            <td class="program-topic">10:10-10:40</td>
             <td class="program-topic">Session 2: <b>Invited speakers with papers.</b></td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-            <td class="program-break">10:25-10:40</td>
+            <td class="program-break">10:40-10:55</td>
             <td class="program-break">Short Break</td>
         </tr>
         <tr>
