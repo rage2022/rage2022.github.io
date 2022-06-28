@@ -109,7 +109,7 @@ permalink: /agenda/
             <td class="program-special-event">10:55-11:25</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Giving the Software Defined Vehicle an Edge</span>
-                <b><br>&emsp;<a href="/speakers/#seitter-joerg">Dr. Joerg Seitter,</a></b>
+                <b><br>&emsp;<a href="/speakers/#seitter-joerg">Joerg Seitter,</a></b>
                 <br>&emsp;<a href="https://www.etas.com/en">ETAS, Germany </a>
             </td>
         </tr>
