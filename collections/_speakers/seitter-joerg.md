@@ -1,7 +1,7 @@
 ---
 name: Joerg Seitter
 affiliation: ETAS, Germany
-pic: assets/data/speakers/seitter.jpeg
+pic: assets/data/speakers/Bild_Joerg.jpg
 speach:
     topic: "Giving the Software Defined Vehicle an Edge"
 withPaper: false
