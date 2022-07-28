@@ -16,6 +16,11 @@ layout: default
                         <p>{{ page.keywords }}</p>
                         <h3>Abstract:</h3>
                         <p>{{ page.abstract }}</p>
+                        <h3>Material:</h3>
+                        <ul>
+                            <li><a href='{{ "assets/data/slides/" | append: page.slides | relative_url }}'>Slides</a></li>
+                            <li><a href='{{ "assets/data/papers/" | append: page.slug | append: ".pdf" | relative_url }}'>Paper</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>

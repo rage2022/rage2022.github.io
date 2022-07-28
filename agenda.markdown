@@ -4,7 +4,7 @@ title: Agenda
 permalink: /agenda/
 ---
 
-## Preliminary program
+## Workshop program
 
 <table class="program" cellspacing="2" cellpadding="2">
     <tbody>
