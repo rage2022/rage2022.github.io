@@ -10,7 +10,7 @@ permalink: /proceedings/
     <tbody>
         <tr>
             <td>Daniel Casini, Dakshina Dasari, and Matthias Becker (Eds.), Proceedings of the 1st Real-time And IntelliGent Edge Computing Workshop (RAGE 2022), San Francisco, California, USA, July 10th, 2022. [ 
-                <a href="/assets/data/proceedings/RAGE2022_Proceedings.pdf.pdf"><i class="fa fa-file-text-o"></i></a> 
+                <a href="/assets/data/proceedings/RAGE2022_Proceedings.pdf"><i class="fa fa-file-text-o"></i></a> 
                 ]
             </td>
         </tr>
